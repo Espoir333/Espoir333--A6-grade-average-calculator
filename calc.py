@@ -11,6 +11,6 @@ for i in range(0,n):
     elem=int(input("Enter Sara's grade: "))
     a.append(elem)
 avg=sum(a)/n
-print("Sara's grade average",round(avg,2))
+print("Sara's grade average",round (avg,2))
 
 
